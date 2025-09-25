@@ -1,96 +1,36 @@
-# ikhaya-mobile-fuel.
-the website is all about delivering fuel to people
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ikhaya Mobile Fuel — Simple HTML Only</title>
-</head>
-<body>
-<header>
-<h1>Ikhaya Mobile Fuel</h1>
-<p>On‑demand fuel delivery to your home or business!</p>
-</header>
+# Ikhaya Mobile Fuel 🚚⛽
 
+**On-demand fuel delivery to your home or business!**
 
-<nav>
-<ul>
-<li><a href="#about">About</a></li>
-<li><a href="#services">Services</a></li>
-<li><a href="#pricing">Pricing</a></li>
-<li><a href="#contact">Contact</a></li>
-</ul>
-</nav>
+This project is a simple website that shows the services of Ikhaya Mobile Fuel.  
+The goal is to provide an easy way for customers to learn about ordering fuel safely and conveniently.
 
+---
 
-<main>
-<section id="about">
-<h2>About Us</h2>
-<article>
-<p>We deliver petrol and diesel directly to you, prioritizing safety, convenience, and reliability. Order via phone, USSD, or our future app — then track delivery while you get on with your day.</p>
-</article>
-<figure>
-<img src="image-placeholder.jpg" alt="Ikhaya Mobile Fuel truck delivering fuel at a home driveway">
-<figcaption>Fast, safe, and compliant mobile refueling.</figcaption>
-</figure>
-</section>
+## 🌍 Project Structure
+- `ikhaya mobile fuel.html` → Main webpage  
+- `Ikhaya mobile fuel web/` → Folder with extra files (CSS, images, etc.)  
+- `README.md` → Project description (this file)  
 
+---
 
-<hr>
+## 📖 Website Sections
+- **Home / Hero** → Introduction of the service  
+- **About Us** → Details about who we are and what we do  
+- **Services** → What type of fuel delivery we provide  
+- **Pricing** → Information about costs  
+- **Contact** → How customers can reach us  
 
+---
 
-<section id="services">
-<h2>Services</h2>
-<p>Choose a service that fits your needs:</p>
-<ul>
-<li>On‑demand petrol delivery</li>
-<li>On‑demand diesel delivery</li>
-<li>Scheduled refills for generators and small businesses</li>
-<li>Emergency after‑hours deliveries</li>
-</ul>
-</section>
+## ⚡ How to Run
+1. Download or clone this repository.  
+2. Open the file `ikhaya mobile fuel.html` in any web browser (Chrome, Edge, Firefox, etc.).  
+3. The website will load and show all sections styled with CSS.  
 
+---
 
-<hr>
-
-
-<section id="pricing">
-<h2>Pricing</h2>
-<p>Transparent pricing: per‑litre fuel cost plus a small delivery fee based on distance. Contact us for today’s rates.</p>
-<dl>
-<dt>Standard Delivery</dt>
-<dd>Daytime deliveries within service areas.</dd>
-<dt>Emergency Delivery</dt>
-<dd>After‑hours or urgent requests.</dd>
-</dl>
-</section>
-
-
-<hr>
-
-
-<section id="contact">
-<h2>Contact Us</h2>
-<address>
-Ikhaya Mobile Fuel<br>
-Pretoria, South Africa<br>
-Email: <a href="mailto:info@ikhayamobilefuel.example">info@ikhayamobilefuel.example</a>
-</address>
-
-
-<form action="#" method="post">
-<label for="name">Your Name</label>
-<input id="name" name="name" type="text" placeholder="Enter your name">
-
-
-<label for="email">Email</label>
-<input id="email" name="email" type="email" placeholder="Enter your email">
-
-
-<label for="message">Message</label>
-<textarea id="message" name="message" rows="5" placeholder="How can we help?"></textarea>
-
-
-<button type="submit">Send</button>
-</html>
+## ✅ Future Improvements
+- Add a logo and responsive images  
+- Improve mobile/tablet view with more CSS  
+- Create an order form or app integration
