@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ikhaya Mobile Fuel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+  <header id="home">
+    <img src="logo.png" alt="Ikhaya Mobile Fuel Logo" class="logo">
+    <div>
+      <h1>Ikhaya Mobile Fuel</h1>
+      <p>On-demand fuel delivery to your home or business!</p>
+    </div>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#pricing">Pricing</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  
+  <main>
+    
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We deliver petrol and diesel directly to you, prioritizing safety, convenience, and reliability. Order via phone, USSD, or our future app — then track delivery while you get on with your day.</p>
+      <figure>
+        <img src="about.jpg" alt="Ikhaya Mobile Fuel truck delivering fuel">
+        <figcaption>Fast, safe, and compliant mobile refueling.</figcaption>
+      </figure>
+    </section>
+
+    
+    <section id="services">
+      <h2>Services</h2>
+      <div class="grid">
+        <div class="card">On-demand petrol delivery</div>
+        <div class="card">On-demand diesel delivery</div>
+        <div class="card">Scheduled refills for generators & businesses</div>
+        <div class="card">Emergency after-hours deliveries</div>
+      </div>
+    </section>
+
+    
+    <section id="pricing">
+      <h2>Pricing</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Standard Delivery</h3>
+          <p>Daytime deliveries within service areas.<br>Fee depends on distance.</p>
+        </div>
+        <div class="card">
+          <h3>Emergency Delivery</h3>
+          <p>After-hours or urgent requests.<br>Additional call-out fee applies.</p>
+        </div>
+      </div>
+    </section>
+
+    
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <address>
+        Pretoria, South Africa<br>
+        Email: <a href="mailto:info@ikhayamobilefuel.example">info@ikhayamobilefuel.example</a>
+      </address>
+
+      <form>
+        <label for="name">Your Name</label>
+        <input id="name" type="text" placeholder="Enter your name" required>
+
+        <label for="email">Email</label>
+        <input id="email" type="email" placeholder="Enter your email" required>
+
+        <label for="message">Message</label>
+        <textarea id="message" rows="5" placeholder="How can we help?" required></textarea>
+
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  
+  <footer>
+    <p>&copy; 2025 Ikhaya Mobile Fuel. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+
+
+
+
+
