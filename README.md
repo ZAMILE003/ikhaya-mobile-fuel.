@@ -1,36 +1,24 @@
-# Ikhaya Mobile Fuel 🚚⛽
+# Ikhaya Mobile Fuel Website
 
-**On-demand fuel delivery to your home or business!**
+## Improvements
+- Added responsive design for mobile, tablet, and desktop views.  
+- Improved navigation with a consistent menu across all pages.  
+- Enhanced accessibility with alt text for images.  
 
-This project is a simple website that shows the services of Ikhaya Mobile Fuel.  
-The goal is to provide an easy way for customers to learn about ordering fuel safely and conveniently.
+## Refinements
+- Updated color scheme for better contrast and readability.  
+- Compressed images for faster page load.  
+- Linked all internal pages correctly (index, about, services, enquiry, contact).  
 
----
+## Changelog
+- **v1.0** (Initial version): Created main webpages (index, about, contact, enquiry, services).  
+- **v1.1**: Added CSS styling for layout and colors.  
+- **v1.2**: Included images folder and optimized assets.  
+- **v1.3**: Added JavaScript folder with basic form validation.  
+- **v1.4**: Updated README with improvements, refinements, and references.  
 
-## 🌍 Project Structure
-- `ikhaya mobile fuel.html` → Main webpage  
-- `Ikhaya mobile fuel web/` → Folder with extra files (CSS, images, etc.)  
-- `README.md` → Project description (this file)  
-
----
-
-## 📖 Website Sections
-- **Home / Hero** → Introduction of the service  
-- **About Us** → Details about who we are and what we do  
-- **Services** → What type of fuel delivery we provide  
-- **Pricing** → Information about costs  
-- **Contact** → How customers can reach us  
-
----
-
-## ⚡ How to Run
-1. Download or clone this repository.  
-2. Open the file `ikhaya mobile fuel.html` in any web browser (Chrome, Edge, Firefox, etc.).  
-3. The website will load and show all sections styled with CSS.  
-
----
-
-## ✅ Future Improvements
-- Add a logo and responsive images  
-- Improve mobile/tablet view with more CSS  
-- Create an order form or app integration
+## References
+- [W3Schools HTML & CSS Tutorials](https://www.w3schools.com)  
+- [MDN Web Docs](https://developer.mozilla.org)  
+- [FreeCodeCamp](https://www.freecodecamp.org)  
+- Class lecture notes and slides
